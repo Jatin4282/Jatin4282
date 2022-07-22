@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatin4282
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in developing 
+- 🌱 I’m currently learning Data structures & Algorithm
 - 📫 How to reach me ...Use email : jatinchauhan.4282@gmail.com or connect with me on linkedin,fb or instagram.
 
 <!---
